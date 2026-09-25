@@ -1,0 +1,5 @@
+label,bbox_x1,bbox_y1,bbox_x2,bbox_y2
+Pedestrian_1,96,175,164,325
+Pedestrian_2,240,175,300,305
+Pedestrian_3,414,180,486,340
+Pedestrian_4,532,175,588,295
