@@ -1,8 +1,7 @@
+[README.md](https://github.com/user-attachments/files/32665650/README.md)
 # Tata Technologies - TechPulse FY-26: Applied AI & ML
 ## Lab Statement 5: Predictive Maintenance from Sensor Logs
 
-**Course:** Applied AI & ML (TechPulse FY-26)  
-**Track:** AI & ML | **Level:** Intermediate  
 **Curriculum Unit:** Unit 1 (Automotive use cases: predictive maintenance) & Unit 4 (Evaluation metrics: precision, recall, F1-score, ROC-AUC)  
 **Lab Statement 5:** *Classify component failures using sensor data and Python ML models.*  
 **Domain Focus:** Vehicle Onboard Diagnostic (OBD) Telemetry, Machinery Failure Prevention & Condition-Based Maintenance  
