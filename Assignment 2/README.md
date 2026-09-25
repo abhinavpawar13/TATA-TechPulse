@@ -1,8 +1,7 @@
+[README.md](https://github.com/user-attachments/files/32665569/README.md)
 # Tata Technologies - TechPulse FY-26: Applied AI & ML
 ## Lab Statement 2: Simulated Driving Agent Behavior
 
-**Course:** Applied AI & ML (TechPulse FY-26)  
-**Track:** AI & ML | **Level:** Intermediate  
 **Curriculum Unit:** Unit 1 – Introduction to AI & ML (Evolutionary Algorithms, Agent Behavior & Autonomous Driving)  
 **Lab Statement 2:** *Build a self-driving agent using Python and genetic algorithms.*  
 **Domain Focus:** Autonomous Vehicle Control, Collision Avoidance & Neuroevolutionary Path Planning  
