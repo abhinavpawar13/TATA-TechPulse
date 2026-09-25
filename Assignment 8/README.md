@@ -1,8 +1,7 @@
+[Uploading README.md…]()
 # Tata Technologies - TechPulse FY-26: Applied AI & ML
 ## Lab Statement 8: Sentiment Analysis using LSTM
 
-**Course:** Applied AI & ML (TechPulse FY-26)  
-**Track:** AI & ML | **Level:** Intermediate  
 **Curriculum Unit:** Unit 4 – AI fundamentals & application development (RNN and LSTM overview, Text data preprocessing, Sentiment classification)  
 **Lab Statement 8:** *Analyze vehicle feedback using LSTM-based sentiment classification.*  
 **Domain Focus:** Automotive Voice of Customer (VoC), Quality Engineering & Dealership Service Sentiment Mining  
