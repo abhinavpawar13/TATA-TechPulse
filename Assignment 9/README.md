@@ -1,8 +1,7 @@
+[README.md](https://github.com/user-attachments/files/32665731/README.md)
 # Tata Technologies - TechPulse FY-26: Applied AI & ML
 ## Lab Statement 9: Feature Importance Visualization
 
-**Course:** Applied AI & ML (TechPulse FY-26)  
-**Track:** AI & ML | **Level:** Intermediate  
 **Curriculum Unit:** Unit 4 – AI fundamentals & application development (Feature selection and importance, Gradient Boosting and XGBoost, Model interpretability)  
 **Lab Statement 9:** *Visualize and interpret feature importance in automotive datasets.*  
 **Domain Focus:** Powertrain Efficiency, Vehicle Fuel Consumption Attribution & Explainable AI (XAI)  
