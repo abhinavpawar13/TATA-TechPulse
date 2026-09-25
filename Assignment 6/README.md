@@ -1,8 +1,7 @@
+[README.md](https://github.com/user-attachments/files/32665683/README.md)
 # Tata Technologies - TechPulse FY-26: Applied AI & ML
 ## Lab Statement 6: Traffic Sign Classification using CNN
 
-**Course:** Applied AI & ML (TechPulse FY-26)  
-**Track:** AI & ML | **Level:** Intermediate  
 **Curriculum Unit:** Unit 3 – Deep Learning and Computer Vision (CNN architecture, Image preprocessing, Traffic sign recognition, Overfitting and dropout, Confusion matrix)  
 **Lab Statement 6:** *Train a CNN to recognize traffic signs using the GTSRB dataset.*  
 **Domain Focus:** Advanced Driver Assistance Systems (ADAS), Autonomous Perception & Camera-Based Traffic Sign Recognition (TSR)  
