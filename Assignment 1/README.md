@@ -1,8 +1,7 @@
+[README.md](https://github.com/user-attachments/files/32665481/README.md)
 # Tata Technologies - TechPulse FY-26: Applied AI & ML
 ## Lab Statement 1: ML Model for Car Mileage Estimation
 
-**Course:** Applied AI & ML (TechPulse FY-26)  
-**Track:** AI & ML | **Level:** Intermediate  
 **Curriculum Units:** Unit 1 (Introduction to AI & ML) & Unit 2 (Machine Learning & Applications)  
 **Lab Statement 1:** *Predict car mileage using regression and Python libraries.*  
 **Dataset:** Inbuilt Seaborn `mpg` Automotive Benchmark Dataset (UCI Machine Learning Repository)  
@@ -178,11 +177,3 @@ Specs: cylinders=8, displacement=350 cu.in., HP=165, weight=4140 lbs, accel=12.0
 --> Estimated CO2    : 9,172.9 kg CO2/year
 ================================================================================
 ```
-
----
-
-## 📚 7. Reference Literature & Curriculum Alignment
-- *Introduction to AI & Machine Learning* — Munesh Chandra Trivedi & Ankit Srivastava
-- *Python Machine Learning* — Sebastian Raschka & Vahid Mirjalili
-- *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow* — Aurélien Géron
-- UCI Machine Learning Repository: *Auto MPG Dataset* (Quinlan, 1993)
