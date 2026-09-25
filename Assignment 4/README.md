@@ -1,8 +1,7 @@
+[Uploading README.md…]()
 # Tata Technologies - TechPulse FY-26: Applied AI & ML
 ## Lab Statement 4: Vehicle Price Prediction
 
-**Course:** Applied AI & ML (TechPulse FY-26)  
-**Track:** AI & ML | **Level:** Intermediate  
 **Curriculum Unit:** Unit 2 – Machine Learning & Applications (Case study: Car price prediction, Regression, Decision Trees & Random Forests)  
 **Lab Statement 4:** *Use regression models to estimate vehicle prices from structured data.*  
 **Domain Focus:** Automotive Resale Valuation, Depreciation Analytics & Dealership Pricing  
