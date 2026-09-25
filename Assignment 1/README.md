@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/32665481/README.md)
+[Uploading README.md…]()
 # Tata Technologies - TechPulse FY-26: Applied AI & ML
 ## Lab Statement 1: ML Model for Car Mileage Estimation
 
