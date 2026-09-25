@@ -1,8 +1,7 @@
+[README.md](https://github.com/user-attachments/files/32665608/README.md)
 # Tata Technologies - TechPulse FY-26: Applied AI & ML
 ## Lab Statement 3: Data Cleaning & Preprocessing Techniques
 
-**Course:** Applied AI & ML (TechPulse FY-26)  
-**Track:** AI & ML  
 **Unit:** Unit 2 – Machine Learning & Applications  
 **Lab Statement 3:** *Handle missing values, outliers, and scale features using Pandas and Scikit-learn.*  
 **Domain Focus:** Automotive Telemetry & Vehicle Sales Analytics  
