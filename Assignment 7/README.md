@@ -1,8 +1,7 @@
+[README.md](https://github.com/user-attachments/files/32665696/README.md)
 # Tata Technologies - TechPulse FY-26: Applied AI & ML
 ## Lab Statement 7: Pedestrian Detection using OpenCV
 
-**Course:** Applied AI & ML (TechPulse FY-26)  
-**Track:** AI & ML | **Level:** Intermediate  
 **Curriculum Unit:** Unit 3 – Deep Learning and Computer Vision (Object detection overview, Image preprocessing, OpenCV)  
 **Lab Statement 7:** *Detect pedestrians using OpenCV’s HOG + SVM method.*  
 **Domain Focus:** ADAS Vulnerable Road User (VRU) Protection, Autonomous Emergency Braking (AEB) & Edge Computer Vision  
