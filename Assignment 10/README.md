@@ -1,8 +1,7 @@
+[README.md](https://github.com/user-attachments/files/32665748/README.md)
 # Tata Technologies - TechPulse FY-26: Applied AI & ML
 ## Lab Statement 10: MLOps Workflow Simulation
 
-**Course:** Applied AI & ML (TechPulse FY-26)  
-**Track:** AI & ML | **Level:** Intermediate  
 **Curriculum Unit:** Unit 5 – Generative AI, Prompt Engineering & MLOps Overview (Overview of MLOps, CI/CD in ML pipelines, Model versioning, MLflow introduction, Containerization using Docker)  
 **Lab Statement 10:** *Build a CI/CD pipeline using MLflow and Docker for model deployment.*  
 **Domain Focus:** Automotive Telemetry Serving, Automated Quality Gates & Production Containerization  
